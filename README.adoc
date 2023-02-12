@@ -1,0 +1,3 @@
+= anpacken
+
+`anpacken` is an application to manage packing lists for vehicles. Users are assisted in the regular inspection of the payload.
